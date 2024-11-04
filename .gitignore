@@ -1,0 +1,7 @@
+*ipynb_checkpoints*
+catboost_info/*
+catboost_info/
+mlruns/*
+mlruns/
+mlartifacts/*
+mlartifacts/
